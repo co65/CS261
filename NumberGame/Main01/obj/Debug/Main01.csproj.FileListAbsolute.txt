@@ -1,0 +1,11 @@
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\bin\Debug\Main01.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\bin\Debug\Main01.exe
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\bin\Debug\Main01.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.exe
+c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\NumberGame\Main01\bin\Debug\GameFuntions.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\NumberGame\Main01\bin\Debug\GameFuntions.pdb
