@@ -15,12 +15,9 @@ namespace Main01
     {
         Game game = new Game();
         AI aiRyan = new AI();
-         
-
-
+ 
         public Form1()
         {
-            
             InitializeComponent();
         }
 
@@ -28,16 +25,17 @@ namespace Main01
         {
             game.answer = game.GenerateNumber();
             LabelAnswer.Text = game.ConvertNumbersToString(game.answer);
-            
-            
         }
 
         private void buttonExe_Click(object sender, EventArgs e)
         {
-            
+            game.cleanAnswerAndCounts();
             AnswerList.Items.Add(game.guestTheAnswer(textBox1.Text));
+        }
 
-
+        private void textBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            textBox1.Text = "";
         }
     }
 }

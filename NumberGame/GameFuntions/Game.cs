@@ -10,7 +10,7 @@ namespace GameLibrary
     {
         
         public List<int> answer = new List<int>();
-        List<int> boxAnswer = new List<int>();
+        List<int> userAnswer = new List<int>();
         private Random rnd = new Random();
         int aCount = 0;
         int bCount = 0;
@@ -74,15 +74,23 @@ namespace GameLibrary
             return result;
         }
 
-        //猜一次數字
+        //清除相關參數
+        public void cleanAnswerAndCounts()
+        {
+            userAnswer.Clear();
+            aCount = 0;
+            bCount = 0;
+        }
+
+        //用textbox的值猜一次數字
         public string guestTheAnswer(string textOfBox)
         {
-            boxAnswer.Clear();
+            
             for (int index = 0; index <= 3; index++)
             {
-                boxAnswer.Add(Convert.ToInt16(textOfBox.Substring(index, 1)));//將BOX的字串轉成List物件
+                userAnswer.Add(Convert.ToInt16(textOfBox.Substring(index, 1)));//將BOX的字串轉成List物件
             }
-            return this.GetResult(boxAnswer);
+            return this.GetResult(userAnswer);
          
         }
     }

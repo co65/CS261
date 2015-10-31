@@ -9,3 +9,14 @@ c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\
 c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\Main01\obj\Debug\Main01.pdb
 C:\Users\Ryan\Documents\Visual Studio 2015\Projects\NumberGame\Main01\bin\Debug\GameFuntions.dll
 C:\Users\Ryan\Documents\Visual Studio 2015\Projects\NumberGame\Main01\bin\Debug\GameFuntions.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\bin\Debug\Main01.exe.config
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.exe
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\bin\Debug\Main01.exe
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\bin\Debug\Main01.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\bin\Debug\GameFuntions.dll
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\bin\Debug\GameFuntions.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.Form1.resources
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.Properties.Resources.resources
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\Main01\obj\Debug\Main01.csproj.GenerateResource.Cache

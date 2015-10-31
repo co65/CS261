@@ -3,3 +3,8 @@ c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\GameFuntions\bin\
 c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\GameFuntions\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
 c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\GameFuntions\obj\Debug\GameFuntions.dll
 c:\users\ryan\documents\visual studio 2015\Projects\NumberGame\GameFuntions\obj\Debug\GameFuntions.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\GameFuntions\bin\Debug\GameFuntions.dll
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\GameFuntions\bin\Debug\GameFuntions.pdb
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\GameFuntions\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\GameFuntions\obj\Debug\GameFuntions.dll
+C:\Users\Ryan\Documents\GitHub\CS261\NumberGame\GameFuntions\obj\Debug\GameFuntions.pdb
